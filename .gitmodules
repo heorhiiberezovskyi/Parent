@@ -1,3 +1,4 @@
 [submodule "src/child"]
 	path = src/child
 	url = https://github.com/heorhiiberezovskyi/Child.git
+	branch = a
